@@ -9,4 +9,4 @@ def maxProfit(prices):
             m = max(m, prices[i] - stk[-1])
     return m
 
-print(maxProfit([7,1,5,3,6,4]))
+print(maxProfit([7,1,5,3,6,5]))
