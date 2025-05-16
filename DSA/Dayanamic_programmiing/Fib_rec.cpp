@@ -13,7 +13,7 @@ int  fib_n(int n){
 
 int main(){
 
-    cout << fib_n(5);
+     cout << fib_n(5);
 
 
 }
