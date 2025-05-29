@@ -15,7 +15,8 @@ vector<string> split(const string &);
  *  2. INTEGER_ARRAY a
  *  3. INTEGER_ARRAY b
  */
-
+// this is a greedy method to solve the problem
+// not the optimal solution, but it works for the given constraints
 int twoStacks(int maxSum, vector<int> a, vector<int> b) {
     size_t ptr1 = 0;
     size_t ptr2 = 0;
