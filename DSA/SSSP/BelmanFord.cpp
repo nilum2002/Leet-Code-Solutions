@@ -62,7 +62,7 @@ int main() {
         int n, m;
         cin >> n >> m;
         
-        vector<Edge> edges;
+        vector<Edge> edges; 
         
         for (int i = 0; i < m; i++) {
             int x, y, r;
