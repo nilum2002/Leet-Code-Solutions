@@ -1,86 +1,86 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-using namespace std;
+// #include <iostream>
+// #include <vector>
+// #include <queue>
+// using namespace std;
 
 
 
-vector<int> dijkstra(int n,vector<vector<int>> &graph, int start) {
-    // construct adj list
-    vector<vector<vector<int>>> adj(n + 1);
+// vector<int> dijkstra(int n,vector<vector<int>> &graph, int start) {
+//     // construct adj list
+//     vector<vector<vector<int>>> adj(n + 1);
 
-    for (const auto &edge : graph){
-        int u = edge[0];
-        int v = edge[1];
-        int w = edge[2];
-        adj[u].push_back({v, w});
-        adj[v].push_back({u, w}); // since roads are bidirectional
-    }
+//     for (const auto &edge : graph){
+//         int u = edge[0];
+//         int v = edge[1];
+//         int w = edge[2];
+//         adj[u].push_back({v, w});
+//         adj[v].push_back({u, w}); // since roads are bidirectional
+//     }
 
-    vector<int> dist(n, INT_MAX);
+//     vector<int> dist(n, INT_MAX);
     
-    priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
-    pq.push({0, start});
+//     priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
+//     pq.push({0, start});
 
 
-    dist[start] = 0;
+//     dist[start] = 0;
 
 
-    while (!pq.empty()){
-        int u = pq.top()[1];
-        int d = pq.top()[0];
-        pq.pop();
-        for ( auto x: adj[u]){
-            int v = x[0];
-            int w = x[1];
-            if (dist[v] > d + w){
-                dist[v] = d + w;
-                pq.push({dist[v], v});
-            }
-        }
-    }
+//     while (!pq.empty()){
+//         int u = pq.top()[1];
+//         int d = pq.top()[0];
+//         pq.pop();
+//         for ( auto x: adj[u]){
+//             int v = x[0];
+//             int w = x[1];
+//             if (dist[v] > d + w){
+//                 dist[v] = d + w;
+//                 pq.push({dist[v], v});
+//             }
+//         }
+//     }
 
-    return dist;
-}
-
-
-int main(){
+//     return dist;
+// }
 
 
-    int t;
-    cin >> t; 
+// int main(){
 
 
-
-    for (int i = 0; i < t; i++){
-        int n, m; 
-        vector<vector<int>> graph;
-        cin >> n >> m; // n is the number of nodes, m is the number of edges
-        for (int j = 0; j < m; j++){
-            int x, y, z;
-            cin >> x >> y >> z; // x is the first node, y is the second node, z is the weight of the edge
-            graph.push_back({x, y, z}); // Add the edge to the graph
-        }
-
-        int s;
-        cin >> s; // s is the starting node
-
-        vector<int> dist = dijkstra(n, graph, s); // Call the dijkstra function
-        for (int j = 0; j <n ; j++){
-            if (dist[j] == INT_MAX) continue;
-            if (dist[j] == 0){
-                cout << -1 << " "; // If the distance is 0, it means it's the starting node, so we print -1
-            }else{
-            cout << dist[j] << " ";
-            }
-
-
-        }
-    }}
+//     int t;
+//     cin >> t; 
 
 
 
-/* for best practices 
+//     for (int i = 0; i < t; i++){
+//         int n, m; 
+//         vector<vector<int>> graph;
+//         cin >> n >> m; // n is the number of nodes, m is the number of edges
+//         for (int j = 0; j < m; j++){
+//             int x, y, z;
+//             cin >> x >> y >> z; // x is the first node, y is the second node, z is the weight of the edge
+//             graph.push_back({x, y, z}); // Add the edge to the graph
+//         }
+
+//         int s;
+//         cin >> s; // s is the starting node
+
+//         vector<int> dist = dijkstra(n, graph, s); // Call the dijkstra function
+//         for (int j = 0; j <n ; j++){
+//             if (dist[j] == INT_MAX) continue;
+//             if (dist[j] == 0){
+//                 cout << -1 << " "; // If the distance is 0, it means it's the starting node, so we print -1
+//             }else{
+//             cout << dist[j] << " ";
+//             }
+
+
+//         }
+//     }}
+
+
+
+/* for best practices */
 #include <iostream>
 #include <vector> 
 #include <queue>
@@ -151,4 +151,4 @@ int main() {
 
     return 0;
 }
-*/
+
