@@ -1,0 +1,248 @@
+[33mcommit 5ff544a9ffff9e00d5170da6928c6ab0fd36cfc9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Refactor code structure for improved readability and maintainability
+
+[33mcommit 911eff94ff45f90d25bc39c96622f1fb44ac1fc3[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Leet code 62. Unique paths solution added
+
+[33mcommit c18d0e21bdc1d9c7ada841f125b47acd48c7e676[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Add BFS implementation and shortest path algorithm
+
+[33mcommit 59cb9ea2581bad5cfca53c1728fb45740d1abefa[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Update the dp approach for coin change problem
+
+[33mcommit b47f28823e963396669d3f357b9e68dab649a8f1[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Knapsack problem
+
+[33mcommit ad902b7747b5169a350c0ed390a30dacd55b5c28[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Fix formatting and add problem description for Knapsack problem
+
+[33mcommit c5e3ddc827b1e8424c22ad53157e40006f27e30b[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Add iterative DFS implementation and binary files for testing
+
+[33mcommit 0f1639ac935af95289958e0ff16c3ffe6db07e32[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    edited solution
+
+[33mcommit 358cff93842b9ffc0a89d7cb2b42d1222b9d7290[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    Add implementation for "House Robber" problem
+
+[33mcommit 66d942b7051ccc1708dd3f1107388f14cf958ac8[m
+Author: Nilum <sachithyanilum@gamil.com>
+Commit: Nilum <sachithyanilum@gamil.com>
+
+    List Changed
+
+[33mcommit df13a40f3fc260b786e802426356e08028b5afbf[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Coin Change" problem
+
+[33mcommit 3e764cd3819aed1477247c0ad90fcecab07f385b[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Leaf-Similar Trees" problem
+
+[33mcommit 660b928b74c9b44b59e1ab064dc7203fa3e7da26[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Jump Game" problem
+
+[33mcommit fb1db48128742145ea520a69abcbc7b514cb8e60[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Missing Number" problem
+
+[33mcommit b373a1936326d7739d926a8adaae9242f7e5510a[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Clone Graph" problem
+
+[33mcommit eb35cf0c37089313e4bb1e14a861362257b2ddcd[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Maximum Subarray" problem
+
+[33mcommit 793d907717a1b1da216f04ea26de8d950ea22fbc[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Lowest Common Ancestor of a Binary Search Tree" problem
+
+[33mcommit f76f2c71793fd817a98d105be2bffde90dda7edb[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add implementation for "Invert Binary Tree" problem
+
+[33mcommit 4447674e485569cee4dc28fdc68bf3f5efc1dc9c[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add iterative and BFS solutions for "Maximum Depth of Binary Tree"
+
+[33mcommit 183cc22d44be1630ea67da89736144d9adc0949e[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add initial implementation for "Same Tree" problem
+
+[33mcommit d7ffcbf633b4b5656ae216c39d5456fe859910d9[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Fix indentation for ListNode structure in Linked List Cycle solution
+
+[33mcommit 84f17ebdf592bab796f42dd807249b92bcbdbfb8[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add solution for "Merge Two Sorted Lists" problem
+
+[33mcommit 8abd106b9e9a98046eb0cb5d6c4550fdfbe02b10[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add solution for "Reverse Linked List" problem
+
+[33mcommit b39167fdcb26f7fc0afe7c9e31678139f9bffc60[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add solutions for "Linked List Cycle" problem using two approaches
+
+[33mcommit d731e5259500a2fa06bf96e7f76f50dcfb9e1161[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Implement solution for "Best Time to Buy and Sell Stock" problem
+
+[33mcommit 8646df834a1cf8e077dc79d6d626c07faefa5882[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Add solutions for "Contains Duplicates" problem
+
+[33mcommit 9f9d9eb860df68bb916b1ab09fd8a9d18e1c9784[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    initial commit
+
+[33mcommit 0a0e02ea606185f88e05a8af32d2aaf07eb3ed20[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Solution for 70
+
+[33mcommit d6613cb9ef3c3b46be1cd8b18e3adb8834fe7c95[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    updated
+
+[33mcommit f936a40c003214c80784ea1804a986fa341dec95[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    readme add to the solution
+
+[33mcommit 2c0ade6a53beb624173459ac396edc2ad82d8b01[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Second_commit
+
+[33mcommit 10a6cafe7cff772399cce74e6b59a7a569fd647a[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Visualization
+
+[33mcommit 1b730c1de50ee9e9deffbe97d9b96e8b01a652ab[m
+Author: Nilum <sahithyanilum@gmail.com>
+Commit: Nilum <sahithyanilum@gmail.com>
+
+    Solution
+
+[33mcommit 13274d8167188ecf7b9c81f14cba26c27b70706b[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    121
+
+[33mcommit b5ba70a74ed357cd33a08d4e8605b58a36e19be1[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    392. Is Subsequence
+
+[33mcommit aa420fd4e545c560d8ded749daf45c6452f5421e[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    13. Roman to Integer
+
+[33mcommit 3f4dfab57af7534fe4629639a1537dfa168debf6[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    1768. Merge Strings Alternately
+
+[33mcommit 9c7c0eb802065a56c2c2521fc69c537f44b63899[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    14. Longest Common Prefix
+
+[33mcommit 52c94e6d0a9e31ceb4cb6bdfe8754971582b6b17[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    912. Sort an Array
+
+[33mcommit 9da6f3c45de67ddc2e47ff6a25d231e376c41b9b[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    3074. Apple Redistribution into Boxes
+
+[33mcommit 2c166f90b6beb4ff0009a32814ac9ced54f1a2a9[m
+Author: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+Commit: Nilum Mudaliarachchi <168472757+nilum2002@users.noreply.github.com>
+
+    42. Trapping Rain Water
+
+[33mcommit 4ea9abfac6bea4759ab95ab3a01000d06359f00a[m
+Auth
