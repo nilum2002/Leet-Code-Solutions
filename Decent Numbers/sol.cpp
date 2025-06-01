@@ -12,7 +12,7 @@ void decent_number(int n) {
     }
     
     // (n/3)*3 gives the largest multiple of 3 less than or equal to n
-    for (int fives = (n/3)*3; fives >= 0; fives -= 3){
+    for (int fives =  (n/3)*3; fives >= 0; fives -= 3){
         int threes = n-fives;
         if (threes%5 == 0 && fives%3 == 0){
             for (int i = 0; i < fives; i++){
