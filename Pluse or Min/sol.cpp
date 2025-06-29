@@ -4,7 +4,12 @@ using namespace std;
 
 
 void sol(int a, int b , int c){
-    if ( a < c || b < c){
+    // if ( a < c || b < c){
+    //     cout << "+" << endl;
+    // }else{
+    //     cout << "-" << endl;
+    // }
+    if (a+b ==c){
         cout << "+" << endl;
     }else{
         cout << "-" << endl;
