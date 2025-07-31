@@ -27,23 +27,7 @@ class Solution:
                         
                         visited.add((r+dr, c+dl))
                         q.append((r+dr, c+dl))
-
-
-                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                        
         bfs(sr, sc)
         return image 
         
